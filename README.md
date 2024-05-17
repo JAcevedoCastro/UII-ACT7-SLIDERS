@@ -19,4 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ![image](https://github.com/JAcevedoCastro/UII-ACT7-SLIDERS/assets/144373213/2f405167-5163-4de7-87ed-615cd62786b3)
+![image](https://github.com/JAcevedoCastro/UII-ACT7-SLIDERS/assets/144373213/d23d81d8-fa89-4594-99ba-5f991f37f2b1)
+![image](https://github.com/JAcevedoCastro/UII-ACT7-SLIDERS/assets/144373213/472a3111-1005-4db9-9ff5-463572c6f6a1)
+![image](https://github.com/JAcevedoCastro/UII-ACT7-SLIDERS/assets/144373213/e72c94ca-bdc6-46b9-8eff-8d61331b3115)
+![image](https://github.com/JAcevedoCastro/UII-ACT7-SLIDERS/assets/144373213/d826c479-45b8-4716-90da-417f66c2b5ce)
 
